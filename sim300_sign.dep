@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>4004468982</fileChecksum>
+  <configuration>
+    <name>MKTY-400</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\MKTY-400\Exe\mkty-400-sim800.hex</file>
+      <file>$PROJ_DIR$\init.c</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm64.xcl</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$PROJ_DIR$\MKTY-400\List\mkty-400-sim800.html</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$TOOLKIT_DIR$\inc\bitdefinitions\iom64.inc</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul-sf.r90</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\main.r90</file>
+      <file>$PROJ_DIR$\MKTY-400\Exe\ssb-5-sim800.hex</file>
+      <file>$PROJ_DIR$\voice.c</file>
+      <file>$PROJ_DIR$\delayIAR.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\pgmspace.h</file>
+      <file>$TOOLKIT_DIR$\inc\iom64.h</file>
+      <file>$PROJ_DIR$\compiler.h</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\sim300_sign.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\[ROOT_NODE]</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 9 12 8 24 14 27 22 21 13 20 25 11 0 6 26 5 3</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 23 9 12 8 24 14 27 22 21 13 20 25 11 0 6 26 5 3 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MKTY-400\Exe\mkty-400-sim800.hex</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 4 16 17 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MKTY-400\Exe\ssb-5-sim800.hex</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 4 16 17 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MKTY-400\Obj\sim300_sign.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 2 10</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 2 10</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+</project>
+
+

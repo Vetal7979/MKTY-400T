@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>gsm_sim300_fortis/MKTY-400</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>54</Column0><Column1>26</Column1><Column2>27</Column2><Column3>9597312</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>678</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+    <Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>77</ColumnWidth0><ColumnWidth1>65</ColumnWidth1><ColumnWidth2>789</ColumnWidth2></Find-in-Files><TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-22332-29094</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>gsm_sim300_fortis</ExpandedNode><ExpandedNode>gsm_sim300_fortis/Output</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-17836-26722</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>399</YPos><SelStart>14151</SelStart><SelEnd>14151</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>28</SelStart><SelEnd>28</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1784</SelStart><SelEnd>1784</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>9097</SelStart><SelEnd>9097</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\lcd.c</Filename><XPos>0</XPos><YPos>234</YPos><SelStart>5013</SelStart><SelEnd>5024</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\init.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2308</SelStart><SelEnd>2308</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\voice.c</Filename><XPos>0</XPos><YPos>441</YPos><SelStart>6979</SelStart><SelEnd>6985</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\compiler.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>111</SelStart><SelEnd>111</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01dad348><key>iaridepm.enu1</key></Toolbar-01dad348></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>392</Bottom><Right>127</Right><x>-2</x><y>-2</y><xscreen>383</xscreen><yscreen>652</yscreen><sizeHorzCX>374023</sizeHorzCX><sizeHorzCY>1135889</sizeHorzCY><sizeVertCX>125977</sizeVertCX><sizeVertCY>686411</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>137</Bottom><Right>1026</Right><x>-2</x><y>-2</y><xscreen>1028</xscreen><yscreen>139</yscreen><sizeHorzCX>1003906</sizeHorzCX><sizeHorzCY>242160</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>242160</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>257452513</fileChecksum>
+  <configuration>
+    <name>MKTY-400</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\clib\pgmspace.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\lcd.h</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\main.r90</file>
+      <file>$PROJ_DIR$\compiler.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\iom64.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\voice.c</file>
+      <file>$PROJ_DIR$\MKTY-400\Exe\gsm_sim300_fortis.hex</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul-sf.r90</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\gsm_sim300_fortis.pbd</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\init.r90</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\init.pbi</file>
+      <file>$PROJ_DIR$\MKTY-400\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm64.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\delayIAR.h</file>
+      <file>$PROJ_DIR$\MKTY-400\List\main.s90</file>
+      <file>$PROJ_DIR$\MKTY-400\List\gsm_sim300_fortis.html</file>
+      <file>$PROJ_DIR$\MKTY-400\List\main.lst</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\lcd.c</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$PROJ_DIR$\init.c</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\bitdefinitions\iom64.inc</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 24 26 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 14 33 30 5 6 8 0 12 13 23 32 27 21 2 28 17 31</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 7 14 33 30 5 6 8 0 12 13 23 32 27 21 2 28 17 31 9 29 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MKTY-400\Exe\gsm_sim300_fortis.hex</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 20 22 4 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MKTY-400\Obj\gsm_sim300_fortis.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 25 10</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 14 33</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 7 14 33</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+
